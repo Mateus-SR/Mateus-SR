@@ -3,8 +3,8 @@
 </div>
 
 <p align="center">
-  <code>PROFILE MODE: EXPLORER</code>  
-  <code>STATUS: ONLINE</code>  
+  <code>PROFILE MODE: EXPLORER</code> &nbsp;
+  <code>STATUS: ONLINE</code> &nbsp;
   <code>CURIOSITY: ENABLED</code>
 </p>
 
@@ -203,10 +203,10 @@
 <table width="100%" border="1" cellpadding="8" cellspacing="0">
 <tr>
 <td width="50%" valign="top">
-<img src="https://github-readme-stats.vercel.app/api?username=Mateus-SR&show_icons=true&include_all_commits=true&bg_color=102A83&title_color=56C4D8&text_color=F1F4FF&icon_color=6EC9B8&border_color=56C4D8" width="100%" alt="Estatísticas do GitHub"/>
+<img src="https://github-readme-stats.vercel.app/api?username=Mateus-SR&amp;show_icons=true&amp;include_all_commits=true&amp;bg_color=102A83&amp;title_color=56C4D8&amp;text_color=F1F4FF&amp;icon_color=6EC9B8&amp;border_color=56C4D8" width="100%" alt="Estatísticas do GitHub"/>
 </td>
 <td width="50%" valign="top">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mateus-SR&layout=compact&bg_color=102A83&title_color=56C4D8&text_color=F1F4FF&border_color=56C4D8" width="100%" alt="Linguagens mais usadas"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mateus-SR&amp;layout=compact&amp;bg_color=102A83&amp;title_color=56C4D8&amp;text_color=F1F4FF&amp;border_color=56C4D8" width="100%" alt="Linguagens mais usadas"/>
 </td>
 </tr>
 </table>
@@ -223,18 +223,3 @@
   <img src="assets/icons/globe.svg" height="20" alt=""/>
   <code>END OF TRANSMISSION // OBRIGADO PELA VISITA</code>
 </p>
-
-<p align="center">
-  <img src="assets/eight-bit-ocean.svg"
-       alt="Mateus-SR — Tecnologia, projetos e experimentos"
-       width="100%" />
-</p>
-
-<p align="center">
-  <a href="#projetos-em-destaque">Projetos</a> ·
-  <a href="#tecnologias">Tecnologias</a> ·
-  <a href="#estatisticas-do-github">Estatísticas</a> ·
-  <a href="https://github.com/Mateus-SR">GitHub</a>
-</p>
-
----
