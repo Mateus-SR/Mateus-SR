@@ -3,8 +3,8 @@
 </div>
 
 <p align="center">
-  <code>PROFILE MODE: EXPLORER</code> &nbsp;
-  <code>STATUS: ONLINE</code> &nbsp;
+  <code>PROFILE MODE: EXPLORER</code>  
+  <code>STATUS: ONLINE</code>  
   <code>CURIOSITY: ENABLED</code>
 </p>
 
@@ -17,10 +17,7 @@
 
 <p align="center"><img src="assets/pixel-ocean-divider.svg" width="100%" alt=""/></p>
 
-<h2 id="01--college-projects">
-  <img src="assets/icons/folder.svg" height="26" alt=""/>
-  01 / COLLEGE PROJECTS
-</h2>
+<h2 id="01--college-projects"><img src="assets/ui/section-college.svg" width="100%" alt="01 / COLLEGE PROJECTS"/></h2>
 
 <p><code>FATEC DSM // ACADEMIC BUILDS // 04 RECORDS</code></p>
 
@@ -32,7 +29,7 @@
 <table width="100%" border="1" cellpadding="12" cellspacing="0">
   <tr>
     <td width="50%" valign="top">
-      <img src="assets/captures/busca-bus.png" width="100%" alt="Prévia do Busca Bus"/>
+      <img src="assets/frames/busca-bus.png" width="100%" alt="Prévia do Busca Bus"/>
       <h3>01 / Busca Bus</h3>
       <p><code>FATEC DSM 2026/2 · WEB / REALTIME</code></p>
       <p>
@@ -46,7 +43,7 @@
       </p>
     </td>
     <td width="50%" valign="top">
-      <img src="assets/captures/la-casa-de-sacola.png" width="100%" alt="Prévia de La Casa de Sacola"/>
+      <img src="assets/frames/la-casa-de-sacola.png" width="100%" alt="Prévia de La Casa de Sacola"/>
       <h3>02 / La Casa de Sacola</h3>
       <p><code>FATEC DSM 2026/1 · E-COMMERCE</code></p>
       <p>
@@ -61,7 +58,7 @@
   </tr>
   <tr>
     <td width="50%" valign="top">
-      <img src="assets/captures/ong-academia-carolinas.png" width="100%" alt="Prévia do site Academia Carolinas"/>
+      <img src="assets/frames/ong-academia-carolinas.png" width="100%" alt="Prévia do site Academia Carolinas"/>
       <h3>03 / Website ONG Academia Carolinas</h3>
       <p><code>FATEC DSM 2025/1 · INSTITUTIONAL</code></p>
       <p>
@@ -91,10 +88,7 @@
 
 <p align="center"><img src="assets/pixel-ocean-divider.svg" width="100%" alt=""/></p>
 
-<h2 id="02--sidequests">
-  <img src="assets/icons/gamepad-2.svg" height="26" alt=""/>
-  02 / SIDEQUESTS
-</h2>
+<h2 id="02--sidequests"><img src="assets/ui/section-sidequests.svg" width="100%" alt="02 / SIDEQUESTS"/></h2>
 
 <p><code>OPTIONAL MISSIONS // PERSONAL PROJECTS & EXPERIMENTS</code></p>
 
@@ -165,10 +159,7 @@
 
 <p align="center"><img src="assets/pixel-ocean-divider.svg" width="100%" alt=""/></p>
 
-<h2 id="03--tech-inventory">
-  <img src="assets/icons/database.svg" height="26" alt=""/>
-  03 / TECH INVENTORY
-</h2>
+<h2 id="03--tech-inventory"><img src="assets/ui/section-tech.svg" width="100%" alt="03 / TECH INVENTORY"/></h2>
 
 <p>Tecnologias presentes entre os projetos do perfil.</p>
 
@@ -193,20 +184,17 @@
 
 <p align="center"><img src="assets/pixel-ocean-divider.svg" width="100%" alt=""/></p>
 
-<h2 id="04--system-telemetry">
-  <img src="assets/icons/live.svg" height="26" alt=""/>
-  04 / SYSTEM TELEMETRY
-</h2>
+<h2 id="04--system-telemetry"><img src="assets/ui/section-telemetry.svg" width="100%" alt="04 / SYSTEM TELEMETRY"/></h2>
 
 <p><code>GITHUB ACCOUNT // REMOTE STATS</code></p>
 
 <table width="100%" border="1" cellpadding="8" cellspacing="0">
 <tr>
 <td width="50%" valign="top">
-<img src="https://github-readme-stats.vercel.app/api?username=Mateus-SR&amp;show_icons=true&amp;include_all_commits=true&amp;bg_color=102A83&amp;title_color=56C4D8&amp;text_color=F1F4FF&amp;icon_color=6EC9B8&amp;border_color=56C4D8" width="100%" alt="Estatísticas do GitHub"/>
+<img src="https://github-readme-stats.vercel.app/api?username=Mateus-SR&show_icons=true&include_all_commits=true&bg_color=102A83&title_color=56C4D8&text_color=F1F4FF&icon_color=6EC9B8&border_color=56C4D8" width="100%" alt="Estatísticas do GitHub"/>
 </td>
 <td width="50%" valign="top">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mateus-SR&amp;layout=compact&amp;bg_color=102A83&amp;title_color=56C4D8&amp;text_color=F1F4FF&amp;border_color=56C4D8" width="100%" alt="Linguagens mais usadas"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mateus-SR&layout=compact&bg_color=102A83&title_color=56C4D8&text_color=F1F4FF&border_color=56C4D8" width="100%" alt="Linguagens mais usadas"/>
 </td>
 </tr>
 </table>
