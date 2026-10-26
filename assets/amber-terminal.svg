@@ -1,0 +1,62 @@
+<svg xmlns="http://www.w3.org/2000/svg"
+     width="1200" height="270" viewBox="0 0 1200 270">
+  <rect width="1200" height="270" rx="18" fill="#17130B"/>
+  <rect x="1" y="1" width="1198" height="268" rx="17"
+        fill="none" stroke="#846B35" stroke-width="2"/>
+
+  <circle cx="30" cy="27" r="6" fill="#FFBF00"/>
+  <circle cx="51" cy="27" r="6" fill="#B7E4C7"/>
+  <circle cx="72" cy="27" r="6" fill="#FFBF00"/>
+
+  <text x="96" y="32"
+        fill="#846B35"
+        font-family="Consolas, monospace"
+        font-size="15">PERSONAL COMPUTER / PROFILE SYSTEM</text>
+
+  <path d="M20 53 H1180" stroke="#846B35" opacity=".6"/>
+
+  <text x="42" y="124"
+        fill="#FFBF00"
+        font-family="Consolas, monospace"
+        font-size="57"
+        font-weight="bold">MATEUS-SR</text>
+
+  <text x="45" y="163"
+        fill="#F5E7C6"
+        font-family="Consolas, monospace"
+        font-size="21">tecnologia / projetos / experimentos</text>
+
+  <text x="45" y="216"
+        fill="#FFBF00"
+        font-family="Consolas, monospace"
+        font-size="17">$ explore --projects --build --repeat</text>
+
+  <rect x="820" y="79" width="330" height="125" rx="8"
+        fill="#000000" opacity=".18"/>
+
+  <text x="846" y="108"
+        fill="#846B35"
+        font-family="Consolas, monospace"
+        font-size="14">SYS.STATUS</text>
+
+  <text x="846" y="140"
+        fill="#FFBF00"
+        font-family="Consolas, monospace"
+        font-size="25"
+        font-weight="bold">ONLINE</text>
+
+  <rect x="846" y="157" width="264" height="5"
+        rx="2" fill="#846B35" opacity=".5"/>
+  <rect x="846" y="157" width="188" height="5"
+        rx="2" fill="#FFBF00"/>
+
+  <text x="846" y="187"
+        fill="#D9B96C"
+        font-family="Consolas, monospace"
+        font-size="14">curiosity: enabled</text>
+
+  <rect x="1084" y="215" width="10" height="10" fill="#FFBF00"/>
+  <rect x="1098" y="215" width="10" height="10" fill="#D9B96C"/>
+  <rect x="1112" y="215" width="10" height="10" fill="#FFBF00"/>
+  <rect x="1126" y="215" width="10" height="10" fill="#B7E4C7"/>
+</svg>
