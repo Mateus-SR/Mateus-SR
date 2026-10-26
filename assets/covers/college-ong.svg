@@ -1,0 +1,27 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="460" viewBox="0 0 1200 460">
+  <rect width="1200" height="460" fill="#102A83"/>
+  <rect x="3" y="3" width="1194" height="454" fill="none" stroke="#56C4D8" stroke-width="5"/>
+  <rect x="20" y="20" width="1160" height="36" fill="#0A1C58" stroke="#56C4D8" stroke-width="2"/>
+  <rect x="34" y="32" width="10" height="10" fill="#56C4D8"/>
+  <rect x="51" y="32" width="10" height="10" fill="#B4A5FF"/>
+  <rect x="68" y="32" width="10" height="10" fill="#6EC9B8"/>
+  <text x="91" y="43" fill="#9AA8C0" font-family="Consolas,monospace" font-size="16">8-BIT OCEAN / PROJECT DATABASE</text>
+  <rect x="26" y="80" width="610" height="330" fill="#0A1C58" stroke="#56C4D8" stroke-width="2"/>
+  <text x="48" y="120" fill="#B4A5FF" font-family="Consolas,monospace" font-size="17">PROJECT FILE</text>
+  <text x="48" y="177" fill="#56C4D8" font-family="Consolas,monospace" font-size="36" font-weight="bold">03 / ACADEMIA CAROLINAS</text>
+  <rect x="49" y="201" width="520" height="3" fill="#2447A4"/>
+  <text x="49" y="242" fill="#F1F4FF" font-family="Consolas,monospace" font-size="18">WEBSITE INSTITUCIONAL / FATEC DSM</text>
+  <rect x="49" y="282" width="14" height="14" fill="#6EC9B8"/>
+  <text x="75" y="294" fill="#6EC9B8" font-family="Consolas,monospace" font-size="16">LOCAL PREVIEW / READY</text>
+  <text x="49" y="364" fill="#9AA8C0" font-family="Consolas,monospace" font-size="15">MATEUS-SR // SIDEQUEST ARCHIVE</text>
+  <rect x="705" y="260" width="330" height="140" fill="#B4A5FF"/>
+<rect x="685" y="238" width="370" height="24" fill="#56C4D8"/>
+<rect x="735" y="205" width="270" height="25" fill="#56C4D8"/>
+<rect x="745" y="286" width="42" height="47" fill="#102A83"/>
+<rect x="810" y="286" width="42" height="47" fill="#102A83"/>
+<rect x="875" y="286" width="42" height="47" fill="#102A83"/>
+<rect x="940" y="286" width="42" height="47" fill="#102A83"/>
+<rect x="829" y="345" width="74" height="55" fill="#102A83"/>
+  <rect x="22" y="425" width="1156" height="20" fill="#0A1C58"/>
+  <text x="36" y="439" fill="#9AA8C0" font-family="Consolas,monospace" font-size="12">PIXEL COVER / DECORATIVE ARTWORK — NOT A REAL SCREENSHOT</text>
+</svg>

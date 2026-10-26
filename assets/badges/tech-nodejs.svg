@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="140" height="42" viewBox="0 0 140 42">
+  <path d="M5 1 H135 V7 H139 V35 H135 V41 H5 V35 H1 V7 H5 Z"
+        fill="#0A1C58" stroke="#6EC9B8" stroke-width="2"/>
+  <rect x="12" y="11" width="6" height="6" fill="#6EC9B8"/>
+  <rect x="22" y="11" width="6" height="6" fill="#B4A5FF"/>
+  <rect x="12" y="21" width="6" height="6" fill="#6EC9B8"/>
+  <rect x="22" y="21" width="6" height="6" fill="#56C4D8"/>
+  <text x="39" y="26" fill="#F1F4FF" font-family="Consolas,monospace" font-size="15">Node.js</text>
+</svg>
