@@ -23,7 +23,7 @@ jobs:
           cards: overview,lifetime,repositories
           output-dir: assets
           themes: light,dark
-          palette: blue
+          palette: green
           mono-font: Roboto Mono
           commit: true
           commit-message: "chore(profile): refresh overview, lifetime and repositories cards [skip ci]"

@@ -1,5 +1,7 @@
 <div align="center">
-  <img src="assets/header-8-bit-ocean.svg" width="100%" alt="Mateus-SR — 8-Bit Ocean"/>
+  <a href="https://github.com/Mateus-SR">
+    <img src="https://github-stats-terminal-style-five.vercel.app/api/stats?username=Mateus-SR&theme=custom&customTheme=%7B%22background%22%3A%22%2309474a%22%2C%22foreground%22%3A%22%23FFFFFF%22%2C%22accent%22%3A%22%23007D7A%22%2C%22cursor%22%3A%22%23caff23%22%7D&headerStyle=windows&typingSpeed=70&hostname=github.com&commands=whoami%2Cneofetch%2Clanguages%2Cuptime%2Ctop-repos%2Cexit&customCommands=%7B%22teste%22%3A%22teste%22%7D" width="100%" alt="Terminal de estatísticas GitHub — Mateus-SR"/>
+  </a>
   <p><code>PROFILE MODE: EXPLORER</code> &nbsp; <code>STATUS: ONLINE</code></p>
 </div>
 
@@ -27,31 +29,20 @@
   </picture>
 </p>
 
-<table width="100%" cellpadding="6" cellspacing="0">
-  <tr>
-    <td width="50%" valign="top">
-      <picture>
-        <source media="(prefers-color-scheme: dark)" srcset="assets/lifetime.dark.svg"/>
-        <source media="(prefers-color-scheme: light)" srcset="assets/lifetime.light.svg"/>
-        <img src="assets/lifetime.dark.svg" width="100%" alt="Histórico de contribuições"/>
-      </picture>
-    </td>
-    <td width="50%" valign="top">
-      <picture>
-        <source media="(prefers-color-scheme: dark)" srcset="assets/repositories.dark.svg"/>
-        <source media="(prefers-color-scheme: light)" srcset="assets/repositories.light.svg"/>
-        <img src="assets/repositories.dark.svg" width="100%" alt="Atividade dos repositórios"/>
-      </picture>
-    </td>
-  </tr>
-</table>
-
-### Terminal
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="assets/lifetime.dark.svg"/>
+    <source media="(prefers-color-scheme: light)" srcset="assets/lifetime.light.svg"/>
+    <img src="assets/lifetime.dark.svg" width="100%" alt="Histórico de contribuições"/>
+  </picture>
+</p>
 
 <p align="center">
-  <a href="https://github.com/Mateus-SR">
-    <img src="https://github-stats-terminal-style-five.vercel.app/api/stats?username=Mateus-SR&amp;theme=monokai&amp;headerStyle=windows&amp;typingSpeed=70&amp;hostname=github.com&amp;commands=whoami%2Cneofetch%2Clanguages%2Cuptime%2Ctop-repos%2Cexit&amp;customCommands=%7B%22teste%22%3A%22teste%22%7D" width="100%" alt="GitHub Stats Terminal — Mateus-SR"/>
-  </a>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="assets/repositories.dark.svg"/>
+    <source media="(prefers-color-scheme: light)" srcset="assets/repositories.light.svg"/>
+    <img src="assets/repositories.dark.svg" width="100%" alt="Atividade dos repositórios"/>
+  </picture>
 </p>
 
 ---
