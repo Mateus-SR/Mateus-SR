@@ -1,6 +1,6 @@
 <div align="center">
   <a href="https://github.com/Mateus-SR">
-    <img src="https://github-stats-terminal-style-five.vercel.app/api/stats?username=Mateus-SR&theme=custom&customTheme=%7B%22background%22%3A%22%2309474a%22%2C%22foreground%22%3A%22%23FFFFFF%22%2C%22accent%22%3A%22%23007D7A%22%2C%22cursor%22%3A%22%23caff23%22%7D&headerStyle=windows&typingSpeed=70&hostname=github.com&commands=whoami%2Cneofetch%2Clanguages%2Cuptime%2Ctop-repos%2Cexit&customCommands=%7B%22teste%22%3A%22teste%22%7D" width="100%" alt="Terminal de estatísticas GitHub — Mateus-SR"/>
+    <img src="https://github-stats-terminal-style-five.vercel.app/api/stats?username=Mateus-SR&theme=monokai&headerStyle=windows&hostname=github.com&typingSpeed=70&sourceType=user&target=Mateus-SR&commands=whoami%2Cneofetch%2Cuptime%2Clanguages%2Ctop-repos%2Cexit&customCommands=%7B%7D" width="100%" alt="Terminal de estatísticas GitHub — Mateus-SR"/>
   </a>
   <p><code>PROFILE MODE: EXPLORER</code> &nbsp; <code>STATUS: ONLINE</code></p>
 </div>

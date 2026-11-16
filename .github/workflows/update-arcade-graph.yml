@@ -13,27 +13,26 @@ jobs:
     runs-on: ubuntu-latest
     timeout-minutes: 20
     steps:
+      - name: Checkout repository
+        uses: actions/checkout@v7
       - name: Generate all arcade contribution games
         uses: abozanona/pacman-contribution-graph@main
         with:
           github_user_name: ${{ github.repository_owner }}
           games: "pacman,breakout,galaga,puzzle-bobble,bomberman,minesweeper,snake,tetris"
           hide_month_labels: "false"
-
-      - name: Select one game at random
+      - name: Select one game at random and apply palette
         shell: bash
         run: |
           set -euo pipefail
           games=(pacman breakout galaga puzzle-bobble bomberman minesweeper snake tetris)
           selected="${games[$RANDOM % ${#games[@]}]}"
-
           echo "Selected game: ${selected}"
           test -f "dist/${selected}-contribution-graph.svg"
           test -f "dist/${selected}-contribution-graph-dark.svg"
-
           cp "dist/${selected}-contribution-graph.svg" "dist/arcade-contribution-graph.svg"
           cp "dist/${selected}-contribution-graph-dark.svg" "dist/arcade-contribution-graph-dark.svg"
-
+          python scripts/apply-arcade-palette.py dist/arcade-contribution-graph.svg dist/arcade-contribution-graph-dark.svg
       - name: Publish generated SVGs to output branch
         uses: crazy-max/ghaction-github-pages@v3.1.0
         with:

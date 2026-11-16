@@ -1,4 +1,4 @@
-name: Update Profile Cards
+name: Update Profile Visuals
 
 on:
   schedule:
@@ -14,7 +14,6 @@ jobs:
     steps:
       - name: Checkout repository
         uses: actions/checkout@v7
-
       - name: Render profile cards
         uses: seijikohara/profile-cards-action@v1
         with:
@@ -23,7 +22,14 @@ jobs:
           cards: overview,lifetime,repositories
           output-dir: assets
           themes: light,dark
-          palette: green
+          palette: blue
           mono-font: Roboto Mono
-          commit: true
-          commit-message: "chore(profile): refresh overview, lifetime and repositories cards [skip ci]"
+          commit: false
+      - name: Apply the custom 8-Bit Ocean palette
+        run: python scripts/apply-profile-palette.py
+      - name: Commit refreshed cards
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add assets/overview.dark.svg assets/overview.light.svg assets/lifetime.dark.svg assets/lifetime.light.svg assets/repositories.dark.svg assets/repositories.light.svg
+          git diff --cached --quiet || (git commit -m "chore(profile): refresh themed profile cards [skip ci]" && git push)
