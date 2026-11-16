@@ -186,18 +186,67 @@
 
 <h2 id="04--system-telemetry"><img src="assets/ui/section-telemetry.svg" width="100%" alt="04 / SYSTEM TELEMETRY"/></h2>
 
-<p><code>GITHUB ACCOUNT // REMOTE STATS</code></p>
+<p><code>GITHUB ACCOUNT // LIVE PROFILE DATA</code></p>
 
-<table width="100%" border="1" cellpadding="8" cellspacing="0">
-<tr>
-<td width="50%" valign="top">
-<img src="https://github-readme-stats.vercel.app/api?username=Mateus-SR&show_icons=true&include_all_commits=true&bg_color=102A83&title_color=56C4D8&text_color=F1F4FF&icon_color=6EC9B8&border_color=56C4D8" width="100%" alt="Estatísticas do GitHub"/>
-</td>
-<td width="50%" valign="top">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mateus-SR&layout=compact&bg_color=102A83&title_color=56C4D8&text_color=F1F4FF&border_color=56C4D8" width="100%" alt="Linguagens mais usadas"/>
-</td>
-</tr>
-</table>
+<h3><code>01 / ARCADE CONTRIBUTION GRID</code></h3>
+
+<p>
+  Um jogo é escolhido aleatoriamente a cada atualização diária:
+  Pac-Man, Breakout, Galaga, Puzzle Bobble, Bomberman, Minesweeper,
+  Snake ou Tetris.
+</p>
+
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Mateus-SR/Mateus-SR/output/arcade-contribution-graph-dark.svg"/>
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Mateus-SR/Mateus-SR/output/arcade-contribution-graph.svg"/>
+    <img src="https://raw.githubusercontent.com/Mateus-SR/Mateus-SR/output/arcade-contribution-graph.svg" width="100%" alt="Jogo de arcade baseado no gráfico de contribuições do GitHub"/>
+  </picture>
+</p>
+
+<p align="center"><sub>Powered by <a href="https://github.com/abozanona/pacman-contribution-graph">pacman-contribution-graph</a></sub></p>
+
+<p align="center"><img src="assets/pixel-ocean-divider.svg" width="100%" alt=""/></p>
+
+<h3><code>02 / PROFILE OVERVIEW</code></h3>
+
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="assets/overview.dark.svg"/>
+    <source media="(prefers-color-scheme: light)" srcset="assets/overview.light.svg"/>
+    <img src="assets/overview.dark.svg" width="100%" alt="Visão geral das estatísticas do perfil"/>
+  </picture>
+</p>
+
+<h3><code>03 / CONTRIBUTION HISTORY — LIFETIME</code></h3>
+
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="assets/lifetime.dark.svg"/>
+    <source media="(prefers-color-scheme: light)" srcset="assets/lifetime.light.svg"/>
+    <img src="assets/lifetime.dark.svg" width="100%" alt="Histórico de contribuições ao longo dos anos"/>
+  </picture>
+</p>
+
+<h3><code>04 / REPOSITORY ACTIVITY</code></h3>
+
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="assets/repositories.dark.svg"/>
+    <source media="(prefers-color-scheme: light)" srcset="assets/repositories.light.svg"/>
+    <img src="assets/repositories.dark.svg" width="100%" alt="Repositórios com maior atividade"/>
+  </picture>
+</p>
+
+<p align="center"><img src="assets/pixel-ocean-divider.svg" width="100%" alt=""/></p>
+
+<h3><code>05 / TERMINAL SESSION</code></h3>
+
+<p align="center">
+  <a href="https://github.com/Mateus-SR">
+    <img src="https://github-stats-terminal-style-five.vercel.app/api/stats?username=Mateus-SR&amp;theme=monokai&amp;headerStyle=windows&amp;typingSpeed=70&amp;hostname=github.com&amp;commands=whoami%2Cneofetch%2Clanguages%2Cuptime%2Ctop-repos%2Cexit&amp;customCommands=%7B%22teste%22%3A%22teste%22%7D" width="100%" alt="GitHub Stats Terminal — Mateus-SR"/>
+  </a>
+</p>
 
 <p align="center">
   <code>STATUS: ONLINE</code> /
